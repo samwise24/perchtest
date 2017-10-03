@@ -11,15 +11,14 @@
     </head>
     <body>
         <?php include('includes/header.php'); ?>
+        
         <section>
-            <h1>front page</h1>
-            <h2>subheading</h2>
-            <p><?php perch_content('FrontPage'); ?></p>
+            <span>
+                <perch:content id="testAlbum" type="albumlist" label="testAlbum" />
+                <?php perch_content('gallery'); ?>
+            </span>
         </section>
         
-        
-        
-        
-        
     </body>
+
 </html>

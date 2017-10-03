@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<?php include('perch/runtime.php'); ?>
 <html>
     <head>
         <meta charset="UTF-8">
@@ -11,15 +9,11 @@
     </head>
     <body>
         <?php include('includes/header.php'); ?>
+        
         <section>
-            <h1>front page</h1>
-            <h2>subheading</h2>
-            <p><?php perch_content('FrontPage'); ?></p>
+            
         </section>
         
-        
-        
-        
-        
     </body>
+
 </html>
