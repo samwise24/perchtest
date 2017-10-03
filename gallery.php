@@ -14,7 +14,7 @@
         
         <section>
             <span>
-                <perch:content id="testAlbum" type="albumlist" label="testAlbum" />
+                <perch:content id="testAlbum" type="gallery" label="testAlbum" />
                 <?php perch_content('gallery'); ?>
             </span>
         </section>
