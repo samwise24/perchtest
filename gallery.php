@@ -14,8 +14,10 @@
         
         <section>
             <span>
-                <perch:content id="testAlbum" type="gallery" label="testAlbum" />
-                <?php perch_content('gallery'); ?>
+<!--                <perch:gallery id="testAlbum" type="gallery" label="testAlbum" />-->
+                <?php perch_gallery_album_images('testAlbum', array(
+                    'template' => 'b_static_image.html'
+                )); ?>
             </span>
         </section>
         
