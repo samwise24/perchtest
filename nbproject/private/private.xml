@@ -5,6 +5,8 @@
         <group>
             <file>file:/C:/xampp/htdocs/perchTest/styles/main.css</file>
             <file>file:/C:/xampp/htdocs/perchTest/includes/header.php</file>
+            <file>file:/C:/xampp/htdocs/perchTest/gallery.php</file>
+            <file>file:/C:/xampp/htdocs/perchTest/perch/config/apps.php</file>
             <file>file:/C:/xampp/htdocs/perchTest/index.php</file>
             <file>file:/C:/xampp/htdocs/perchTest/styles/header.css</file>
         </group>
